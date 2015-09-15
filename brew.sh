@@ -127,6 +127,8 @@ brew cask install --appdir="/Applications" ShiftIt #Resize windows, My (y)
 brew tap popcorn-time/homebrew-cask https://git.popcorntime.io/caskroom/homebrew-cask.git
 brew cask install popcorn-time # Not sure if it is legal for you.
 
+osascript -e 'tell application "System Events" to make new login item with properties { path: "/Applications/Dropbox.app" } at end'
+
 brew cleanup
 
 
