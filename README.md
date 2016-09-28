@@ -16,7 +16,7 @@ Open Command Palette using menu item Tools
 "color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 ```
 
-→ Detail instruction follow [Boxy Theme](https://github.com/oivva/st-boxy/wiki)
+→ Detail instruction follow [Boxy Theme wiki page](https://github.com/oivva/st-boxy/wiki)
 ![Screenshot](http://i.imgur.com/YPFyLnd.png)
 
 ### Vim Preview
