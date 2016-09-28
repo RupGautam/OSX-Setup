@@ -1,8 +1,12 @@
 ### Sublime   Preview
 Open Command Palette using menu item Tools
+
 → ```Command Palette```
+
 →```Install Package```
+
 → Find ```Boxy Theme```
+
 → And hit ```Enter```
 ![Screenshot](http://i.imgur.com/YPFyLnd.png)
 
