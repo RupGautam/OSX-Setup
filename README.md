@@ -9,7 +9,7 @@ Open Command Palette using menu item Tools
 
 → And hit ```Enter```
 
-→ Detail instruction follow ![Boxy Theme](https://github.com/oivva/st-boxy/wiki)
+→ Detail instruction follow [Boxy Theme](https://github.com/oivva/st-boxy/wiki)
 ![Screenshot](http://i.imgur.com/YPFyLnd.png)
 
 ### Vim Preview
