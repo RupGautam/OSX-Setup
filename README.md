@@ -8,7 +8,9 @@ Open Command Palette using menu item Tools
 → Find ```Boxy Theme```
 
 → And hit ```Enter```
+
+→ Detail instruction follow ![Boxy Theme](https://github.com/oivva/st-boxy/wiki)
 ![Screenshot](http://i.imgur.com/YPFyLnd.png)
 
-### iterm2 Preview
+### Vim Preview
 ![Screenshot](http://i.imgur.com/96z02kj.png)
