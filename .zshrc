@@ -51,7 +51,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions git bundler osx rake ruby)
+plugins=(zsh-syntax-highlighting zsh-dircolors-solarized zsh-autosuggestions zsh-completions git bundler osx rake ruby)
 
 source $ZSH/oh-my-zsh.sh
 source ~/.aliases
@@ -86,6 +86,6 @@ source ~/.aliases
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-#Custom added 
+#Custom added
 #auto complete
 autoload -U compinit && compinit
