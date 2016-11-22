@@ -15,6 +15,10 @@ fi;
 brew update && brew upgrade && brew cleanup;
 brew install zsh zsh-completions;
 
+#Change shell to zsh
+chsh -s /usr/local/bin/zsh;
+
+
 #gitconfig
 cp ~/temp/OSX-Setup/.gitconfig ~/.gitconfig;
 
