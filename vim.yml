@@ -1,7 +1,10 @@
 windows:
-  - name: three-panes-windows
-    layout: even-horizontal
+  - name: three-spilt-windows
+    root: ~/Documents
+    layout: main-vertical
     panes:
-      - ipython
+      - cd ~/Documents/The\ Fundamentals; clear; ipython
       - commands:
-        - cd ~/Documents;
+        - htop
+        name: 'Pi'
+      - ssh pi@192.168.0.50
