@@ -23,4 +23,4 @@ Open Command Palette using menu item Tools
 ![Screenshot](http://i.imgur.com/96z02kj.png)
 
 ###Tmux + Teamocil 
-![Screenshot](http://i.imgur.com/Meva7.png)
+![Screenshot](http://i.imgur.com/KgI9QEi.png)
