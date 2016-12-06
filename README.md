@@ -21,3 +21,6 @@ Open Command Palette using menu item Tools
 
 ### Vim Preview
 ![Screenshot](http://i.imgur.com/96z02kj.png)
+
+###Tmux + Teamocil 
+![Screenshot](http://i.imgur.com/Meva7.png)
