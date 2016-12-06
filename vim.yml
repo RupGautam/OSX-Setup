@@ -1,0 +1,7 @@
+windows:
+  - name: three-panes-windows
+    layout: even-horizontal
+    panes:
+      - ipython
+      - commands:
+        - cd ~/Documents;
