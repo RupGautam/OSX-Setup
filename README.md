@@ -26,5 +26,5 @@ Open Command Palette using menu item Tools
 ![Screenshot](http://i.imgur.com/KgI9QEi.png)
 
 ###Vim simple-complete plugin 
-<a href="https://asciinema.org/a/14"><img src="https://asciinema.org/a/14.png" width="836"/></a>
+![Screencast](http://i.imgur.com/wjzJdZq.gif)
 
