@@ -24,3 +24,6 @@ Open Command Palette using menu item Tools
 
 ###Tmux + Teamocil 
 ![Screenshot](http://i.imgur.com/KgI9QEi.png)
+
+###Vim simple-complete plugin 
+![Video](https://asciinema.org/a/5y5ggl0pseprxopox06a2vt5s)
