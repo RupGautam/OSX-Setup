@@ -55,6 +55,7 @@ Plugin 'flazz/vim-colorschemes'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'ryanoasis/vim-devicons'
+Plugin 'maxboisvert/vim-simple-complete'
 
 " css
 Plugin 'ap/vim-css-color'
