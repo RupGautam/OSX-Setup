@@ -1,3 +1,8 @@
+### Install 
+```
+curl -s https://raw.githubusercontent.com/RupGautam/OSX-Setup/master/install.sh | bash
+```
+
 ### Sublime   Preview
 Open Command Palette using menu item Tools
 
